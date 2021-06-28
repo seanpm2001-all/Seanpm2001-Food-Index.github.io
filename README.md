@@ -1,90 +1,102 @@
 
 ***
 
-# <projectName>
-
-![{Project icon} This image failed to load. It may be due to the file not being reached, or a general error. Reload the page to fix a possible general error.](Image.svg)
-
-# By:
-
-![{Developer name} This image failed to load. It may be due to the file not being reached, or a general error. Reload the page to fix a possible general error.](Image2.svg)
-
 ### Top
 
-# `README.md`
+![RaspberryCouple.png failed to load](/RaspberryCouple.png)
+
+# SPM_FoodIndex
+A project that archives the limited amount of things I can eat/drink. This is a personal project, you can tell just by the description.
 
 ***
 
-## Read this article in a different language
+# README Index
 
-[ar عربى](README_AR.md) [zh-t 中國傳統的）](README_ZH-T.md)[**en-us**](README.md) [fr français](README_FR.md) [de Deutsch](README_DE.md) [EO Esperanto](README_EO.md)  [ja 日本語](README_JA.md) [ko-south 韓國語](README_KO_SOUTH.md) [pl polski](README_PL.md) [ru русский](README_RU.md) [es en español](README_ES.md)
+[00.0 - Title](#SPM_FoodIndex)
 
-Translations in languages other than English are machine translated and are not yet accurate. No errors have been fixed yet as of March 21st 2021. Please report translation errors [here](https://github.com/seanpm2001/<repoName>/issues/). Make sure to backup your correction with sources and guide me, as I don't know languages other than English well (I plan on getting a translator eventually) please cite [wiktionary](https://en.wiktionary.org) and other sources in your report. Failing to do so will result in a rejection of the correction being published.
-
-***
-
-# Index
-
-[00.0 - Top](#Top)
-
-> [00.1 - Title](#<projectName>)
-
-> [00.2 - Read this article in a different language](#Read-this-article-in-a-different-language)
-
-> [00.3 - Index](#Index)
-
-[01.0 - Description](#RepositoryName)
+[01.0 - README Index](#README-Index)
 
 [02.0 - About](#About)
 
-[03.0 - Wiki](#Wiki)
+[03.0 - History](#History)
 
-[04.0 - Version history](#Version-history)
+> [03.1 - Google Sites](#Google-Sites)
 
-[05.0 - Software status](#Software-status)
+> [03.2 - Rewritten](#Rewritten)
 
-[06.0 - Sponsor info](#Sponsor-info)
+[04.0 - Docs](#Docs)
 
-[07.0 - Contributers](#Contributers)
+[05.0 - Diet](#Diet)
 
-[08.0 - Issues](#Issues)
+[06.0 - Project Wiki](#Project-Wiki)
 
-> [08.1 - Current issues](#Current-issues)
+[07.0 - Sponsor info](#Sponsor-info)
 
-> [08.2 - Past issues](#Past-issues)
+[08.0 - Software status](#Software-status)
 
-> [08.3 - Past pull requests](#Past-pull-requests)
+[09.0 - Issues](#Issues)
 
-> [08.4 - Active pull requests](#Active-pull-requests)
+> [09.1 - Current issues](#Current-issues)
 
-[09.0 - Resources](#Resources)
+> [09.2 - Past issues](#Past-issues)
 
-[10.0 - Contributing](#Contributing)
+> [09.3 - Past pull requests](#Past-pull-requests)
 
-[11.0 - About README](#About-README)
+> [09.4 - Active pull requests](#Active-pull-requests)
 
-[12.0 - README Version history](#README-version-history)
+[10.0 - Resources](#Resources)
 
-[13.0 - Footer](#You-have-reached-the-end-of-the-README-file)
+[11.0 - Version history](#Version-history)
 
-> [13.1 - End of file](#EOF)
+[12.0 - Contributers](#Contributers)
 
-***
+[13.0 - Contributing](#Contributing)
 
-# <repoName>
-<repo_description>
+[14.0 - README info](#README-info)
+
+[15.0 - Footer](#End-of-README-file)
 
 ***
 
 ## About
 
-See above. <extendedRepoDescription>
+See above. This is a personal project that indexes what I can eat and drink, showcases opinions, showcases my diet, lists info on my diet, lists my experience, my views, and more. It is not designed for public usage.
 
 ***
 
-## Wiki
+## History
 
-[Click/tap here to view this projects Wiki](https://github.com/seanpm2001/<repoName>/wiki)
+This food index has been an active project of mine since 2018. It has been rewritten once, and it is still going. It is a project that isn't updated very frequently.
+
+### Google Sites
+
+My food index was originally made on Google Sites ("New" Google Sites) which was bloated, hard to navigate, limited, and not fully owned by me. Since Google Takeout lets you take out classic site data, but not new site data, I have been unable to download my website. I have attempted various siteripping techniques, none have been successful yet.
+
+In response to this, and my Degoogling era that started in 2019, I began to rewrite the project from the ground up, although it isn't close to the same.
+
+[The Google Sites version will go here once I gain access to it](/GSites/)
+
+### Rewritten
+
+I rewrote the site with HTML, CSS, and JavaScript in late 2019/early 2020, and it later got uploaded to GitHub during my transition. It is still updated here, but not very often, as I don't have enough resources to improve the project in the way I need.
+
+## Docs
+
+[Located at /NewDocs/](/NewDocs/)
+
+This folder contains additional documentation that is outside the index of food and drink. It also contains extra opinions and reviews.
+
+***
+
+## Diet
+
+I currently have a strict 2^7-2^8 vegetarian diet (128-256 different things I can eat and drink)
+
+***
+
+## Project Wiki
+
+[Click/tap here to view this projects Wiki](https://github.com/seanpm2001/SPM_FoodIndex/Wiki/)
 
 If the project has been forked, the Wiki was likely removed. Luckily, I include an embedded version. You can view it [here](/External/ProjectWiki/).
 
@@ -102,14 +114,6 @@ Try it out! The sponsor button is right up next to the watch/unwatch button.
 
 ***
 
-## Version history
-
-**Version history currently unavailable**
-
-**No other versions listed**
-
-***
-
 ## Software status
 
 All of my works are free some restrictions. DRM (**D**igital **R**estrictions **M**anagement) is not present in any of my works.
@@ -118,21 +122,11 @@ All of my works are free some restrictions. DRM (**D**igital **R**estrictions **
 
 This sticker is supported by the Free Software Foundation. I never intend to include DRM in my works.
 
-I am ussing the abbreviation "Digital Restrictions Management" instead of the more known "Digital Rights Management" as the common way of addressing it is false, there are no rights with DRM. The spelling "Digital Restrictions Management" is more accurate, and is supported by [Richard M. Stallman (RMS)](https://en.wikipedia.org/wiki/Richard_Stallman) and the [Free Software Foundation (FSF)](https://en.wikipedia.org/wiki/Free_Software_Foundation)
+I am using the abbreviation "Digital Restrictions Management" instead of the more known "Digital Rights Management" as the common way of addressing it is false, there are no rights with DRM. The spelling "Digital Restrictions Management" is more accurate, and is supported by [Richard M. Stallman (RMS)](https://en.wikipedia.org/wiki/Richard_Stallman) and the [Free Software Foundation (FSF)](https://en.wikipedia.org/wiki/Free_Software_Foundation)
 
 This section is used to raise awareness for the problems with DRM, and also to protest it. DRM is defective by design and is a major threat to all computer users and software freedom.
 
 Image credit: [defectivebydesign.org/drm-free/...](https://www.defectivebydesign.org/drm-free/how-to-use-label)
-
-***
-
-## Contributers
-
-Currently, I am the only contributer. Contributing is allowed, as long as you follow the rules of the [CONTRIBUTING.md](CONTRIBUTING.md) file.
-
-> * 1. [seanpm2001](https://github.com/seanpm2001/) - x commits (As of DoW, Month, DoM, Yr at ##:## a/pm)
-
-> * 2. No other contributers.
 
 ***
 
@@ -200,35 +194,59 @@ I archive my own issues. Your issue won't be archived unless you request it to b
 
 Here are some other resources for this project:
 
-[Project language file](PROJECT_LANG.<fileExtensionForProgrammingLanguage>)
+[Project language file A](PROJECT_LANG.html)
 
-[Join the discussion on GitHub](https://github.com/seanpm2001/<repoName>/discussions)
+[Project language file B](PROJECT_LANG_2.applescript)
+
+[Project language file C](PROJECT_LANG_3.liquid)
+
+[Join the discussion on GitHub](https://github.com/seanpm2001/SPM_FoodIndex/discussions)
 
 No other resources at the moment.
 
 ***
 
-## Contributing
+## Version history
 
-Contributing is allowed for this project, as long as you follow the rules of the `CONTRIBUTING.md` file.
+Here is the version history for the rewritten version of this site.
 
-[Click/tap here to view the contributing rules for this project](CONTRIBUTING.md)
+[V2.01A - GitHub release 1](https://github.com/seanpm2001/SPM_FoodIndex/releases/tag/V2.01A/) - 131 commits (Released: Wednesday, July 8th 2020 at 1:56 pm)
+
+[V2.01B - GitHub release 2](https://github.com/seanpm2001/SPM_FoodIndex/releases/tag/V2.01B/) - 180 commits: (Released Wednesday, July 8th 2020 at 2:10 pm)
+
+[More versions coming soon](https://www.example.com/)
 
 ***
 
-## About README
+## Contributers
+
+Currently, I am the only contributer, but if you follow ther CONTRIBUTING rules, you can contribute as well.
+
+1. [seanpm2001](https://github.com/seanpm2001/) - 304 commits (As of: Sunday, June 27th 2021 at 5:31 pm)
+
+2. No other contributers at the moment
+
+***
+
+## Contributing
+
+Please abide by the contributing rules for this project. They are listed [here.](/CONTRIBUTING.md)
+
+***
+
+## README info
 
 File type: `Markdown (*.md)`
 
-File version: `0.1 (Sunday, March 21st 2021 at 7:50 pm)`
+Line count (including blank lines): `0,358`
 
-Line count: `0,296`
+File version: `3 (Sunday, June 27th 2021 at 5:31 pm)`
 
 ***
 
 ## README version history
 
-Version 0.1 (Sunday, March 21st 2021 at 7:50 pm)
+Version 1 (Wednesday, July 8th 2020 at 1:53 pm)
 
 > Changes:
 
@@ -236,60 +254,104 @@ Version 0.1 (Sunday, March 21st 2021 at 7:50 pm)
 
 > * Added the title section
 
-> * Added the index
-
 > * Added the about section
 
-> * Added the Wiki section
+> * Added the index
+
+> * Added the Project Wiki section
 
 > * Added the version history section
 
-> * Added the issues section.
-
-> * Added the past issues section
-
-> * Added the past pull requests section
-
-> * Added the active pull requests section
-
-> * Added the contributors section
+> * Added the Contributors section
 
 > * Added the contributing section
 
-> * Added the about README section
+> * Added the README info section
 
-> * Added the README version history section
-
-> * Added the resources section
-
-> * Added a software status section, with a DRM free sticker and message
-
-> * Added the sponsor info section
-
-> * No other changes in version 0.1
-
-Version 1 (Coming soon)
-
-> Changes:
-
-> * Coming soon
+> * Added the footer section
 
 > * No other changes in version 1
 
-Version 2 (Coming soon)
+Version 2 (Wednesday, July 8th 2021 at 2:16 pm)
+
+> Changes:
+
+> * Updated the version history section
+
+> * Updated the contributors section
+
+> * Updated the README info section
+
+> * No other changes in version 2
+
+Version 3 (Sunday, June 27th 2021 at 5:31 pm)
+
+> Changes:
+
+> * Referenced the icon (raspberry picture)
+
+> * Updated the index
+
+> * Upated the about section
+
+> * Updated and renamed the README info section to file info section
+
+> * Updated the README version history section
+
+> * Updated the footer
+
+> * Updated the Wiki section
+
+> * Added the sponsor info section
+
+> * Added the software status section
+
+> * Added the issues section
+
+> > * 1. Added the current issues subsection
+
+> > * 2. Added the past issues subsection
+
+> > * 3. Added the past pull requests subsection
+
+> > * 4. Added the active pull requests subsection
+
+> * Added the resources section
+
+> * No other changes in version 3
+
+Version 4 (Coming soon)
 
 > Changes:
 
 > * Coming soon
 
-> * No other changes in version 2
+> * No other changes in version 4
+
+Version 5 (Coming soon)
+
+> Changes:
+
+> * Coming soon
+
+> * No other changes in version 5
+
+Version 6 (Coming soon)
+
+> Changes:
+
+> * Coming soon
+
+> * No other changes in version 6
 
 ***
 
-### You have reached the end of the README file
+### Footer
 
-[Back to top](#Top) [Exit](https://github.com)
+You have reached the end of this page.
 
-### EOF
+( [Back to top](#Top) | [Exit](https://github.com) )
+
+##### EOF
 
 ***
